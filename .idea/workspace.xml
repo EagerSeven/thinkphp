@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9747fec-321d-44df-b826-be508e4e7024" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="DONT_SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/tpblog/composer.json</pharConfigPath>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PHP" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tpblog/public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/amortize.php" />
+        <option value="$PROJECT_DIR$/ClassName.php" />
+        <option value="$PROJECT_DIR$/Visitors.php" />
+        <option value="$PROJECT_DIR$/protect.php" />
+        <option value="$PROJECT_DIR$/Book.php" />
+        <option value="$PROJECT_DIR$/father.php" />
+        <option value="$PROJECT_DIR$/destruct.php" />
+        <option value="$PROJECT_DIR$/static.php" />
+        <option value="$PROJECT_DIR$/parent.php" />
+        <option value="$PROJECT_DIR$/clone.php" />
+        <option value="$PROJECT_DIR$/extend.php" />
+        <option value="$PROJECT_DIR$/executive.php" />
+        <option value="$PROJECT_DIR$/interface.php" />
+        <option value="$PROJECT_DIR$/Library.inc.php" />
+        <option value="$PROJECT_DIR$/DataCleaner.inc.php" />
+        <option value="$PROJECT_DIR$/clear.php" />
+        <option value="$PROJECT_DIR$/error.php" />
+        <option value="$PROJECT_DIR$/myexcpetion.php" />
+        <option value="$PROJECT_DIR$/more_exception.php" />
+        <option value="$PROJECT_DIR$/ereg.php" />
+        <option value="$PROJECT_DIR$/ereg_replace.php" />
+        <option value="$PROJECT_DIR$/file.php" />
+        <option value="$PROJECT_DIR$/du.php" />
+        <option value="$PROJECT_DIR$/fileatime.php" />
+        <option value="$PROJECT_DIR$/feof.php" />
+        <option value="$PROJECT_DIR$/file2array.php" />
+        <option value="$PROJECT_DIR$/fgetcsv.php" />
+        <option value="$PROJECT_DIR$/fgetss.php" />
+        <option value="$PROJECT_DIR$/ssh.php" />
+        <option value="$PROJECT_DIR$/readdir.php" />
+        <option value="$PROJECT_DIR$/delete.php" />
+        <option value="$PROJECT_DIR$/date.php" />
+        <option value="$PROJECT_DIR$/subcribe.php" />
+        <option value="$PROJECT_DIR$/html_quickform2.php" />
+        <option value="$PROJECT_DIR$/isset.php" />
+        <option value="$PROJECT_DIR$/authenticationFile.php" />
+        <option value="$PROJECT_DIR$/authenticationFile.txt" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/lostpassword.php" />
+        <option value="$PROJECT_DIR$/upload.php" />
+        <option value="$PROJECT_DIR$/uploadmanager.php" />
+        <option value="$PROJECT_DIR$/dnsrr.php" />
+        <option value="$PROJECT_DIR$/port_scan.php" />
+        <option value="$PROJECT_DIR$/mail.php" />
+        <option value="$PROJECT_DIR$/ping.php" />
+        <option value="$PROJECT_DIR$/16-3.php" />
+        <option value="$PROJECT_DIR$/mysql.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="23c50606-bdc9-46f9-ad42-2be9e0ddb3c9" name="localhost" port="8888" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/tpblog/vendor/topthink/think-installer" />
+      <path value="$PROJECT_DIR$/tpblog/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="PhpXdebugProxy" ide_key="phpstorm" host="localhost" port="80" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2225" />
+    <option name="y" value="-257" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHP" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9747fec-321d-44df-b826-be508e4e7024" name="Default" comment="" />
+      <created>1540997815015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540997815015</updated>
+      <workItem from="1540997816272" duration="693000" />
+      <workItem from="1541045167600" duration="6755000" />
+      <workItem from="1541118173174" duration="9381000" />
+      <workItem from="1541255880536" duration="10152000" />
+      <workItem from="1541342994219" duration="7313000" />
+      <workItem from="1541415146324" duration="1356000" />
+      <workItem from="1541417295701" duration="4651000" />
+      <workItem from="1541570874070" duration="11747000" />
+      <workItem from="1541934803144" duration="229000" />
+      <workItem from="1541935035652" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52278000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2225" y="-257" width="974" height="1057" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994664" visible="true" weight="0.2446352" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="调试" order="0" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50084037" side_tool="true" weight="0.32870865" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.31696904" />
+      <window_info id="Favorites" order="2" sideWeight="0.50053364" side_tool="true" weight="0.16893733" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" sideWeight="0.49915966" weight="0.23052295" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Applications/MAMP/bin/php/php5.3.29/conf/php.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/etc/php/5.6/php.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/amortize.php" />
+    <entry file="file://$PROJECT_DIR$/protect.php" />
+    <entry file="file://$PROJECT_DIR$/Book.php" />
+    <entry file="file://$PROJECT_DIR$/destruct.php" />
+    <entry file="file://$PROJECT_DIR$/static.php" />
+    <entry file="file://$PROJECT_DIR$/parent.php" />
+    <entry file="file://$PROJECT_DIR$/clone.php" />
+    <entry file="file://$PROJECT_DIR$/executive.php" />
+    <entry file="file://$PROJECT_DIR$/extend.php" />
+    <entry file="file://$PROJECT_DIR$/interface.php" />
+    <entry file="file://$PROJECT_DIR$/Library.inc.php" />
+    <entry file="file://$PROJECT_DIR$/DataCleaner.inc.php" />
+    <entry file="file://$PROJECT_DIR$/clear.php" />
+    <entry file="file://$PROJECT_DIR$/error.php" />
+    <entry file="file://$PROJECT_DIR$/myexcpetion.php" />
+    <entry file="file://$PROJECT_DIR$/more_exception.php" />
+    <entry file="file://$PROJECT_DIR$/ereg.php" />
+    <entry file="file://$PROJECT_DIR$/ereg_replace.php" />
+    <entry file="file://$PROJECT_DIR$/du.php" />
+    <entry file="file://$PROJECT_DIR$/feof.php" />
+    <entry file="file://$PROJECT_DIR$/fgetcsv.php" />
+    <entry file="file://$PROJECT_DIR$/file2array.php" />
+    <entry file="file://$PROJECT_DIR$/fgetss.php" />
+    <entry file="file://$PROJECT_DIR$/fileatime.php" />
+    <entry file="file://$PROJECT_DIR$/file.php" />
+    <entry file="file://$PROJECT_DIR$/ssh.php" />
+    <entry file="file://$PROJECT_DIR$/readdir.php" />
+    <entry file="file://$PROJECT_DIR$/delete.php" />
+    <entry file="file://$PROJECT_DIR$/date.php" />
+    <entry file="file://$PROJECT_DIR$/html_quickform2.php" />
+    <entry file="file://$PROJECT_DIR$/isset.php" />
+    <entry file="file://$PROJECT_DIR$/authenticationFile.php" />
+    <entry file="file://$PROJECT_DIR$/authenticationFile.txt" />
+    <entry file="file://$PROJECT_DIR$/login.php" />
+    <entry file="file://$PROJECT_DIR$/lostpassword.php" />
+    <entry file="file://$PROJECT_DIR$/upload.php" />
+    <entry file="file://$PROJECT_DIR$/ClassName.php" />
+    <entry file="file://$PROJECT_DIR$/Visitors.php" />
+    <entry file="file://$PROJECT_DIR$/uploadmanager.php" />
+    <entry file="file://$PROJECT_DIR$/subcribe.php" />
+    <entry file="file://$PROJECT_DIR$/dnsrr.php" />
+    <entry file="file://$PROJECT_DIR$/port_scan.php" />
+    <entry file="file://$PROJECT_DIR$/mail.php" />
+    <entry file="file://$PROJECT_DIR$/ping.php" />
+    <entry file="file://$PROJECT_DIR$/16-3.php" />
+    <entry file="file://$PROJECT_DIR$/mysql.php" />
+    <entry file="file://$PROJECT_DIR$/.htpasswd" />
+    <entry file="file://$PROJECT_DIR$/tpblog/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
